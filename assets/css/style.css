@@ -840,7 +840,7 @@ footer {
 .portfolio-filters a:hover, .portfolio-filters a.active { color: #9d426b; }
 
 .portfolio-box {
-	width: 255px;
+	//width: 255px;
 	margin: 40px 15px 0 15px;
 }
 
