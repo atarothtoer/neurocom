@@ -10,8 +10,9 @@ jQuery(document).ready(function() {
 	    Slider
 	*/
 	$('.flexslider').flexslider({
-        animation: "slide",
-        controlNav: "thumbnails",
+        slideshow: false,
+		animation: "slide",
+        controlNav: true,
         prevText: "",
         nextText: ""
     });
