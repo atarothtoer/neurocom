@@ -12,7 +12,7 @@
 body {
     background: #fff;
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     color: #888;
     font-size: 12px;
 }
@@ -244,7 +244,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #5371ff
 .slider-2-text h1 {
 	padding-left: 30px;
 	padding-right: 30px;
-	font-family: 'Lobster', cursive;
+	font-family: Verdana,Geneva,sans-serif;
     font-size: 30px;
     color: #fff;
     font-weight: bold;
@@ -265,7 +265,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #5371ff
 }
 
 .presentation-container h1 {
-    font-family: 'Lobster', cursive;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 30px;
     color: #5d5d5d;
     font-weight: bold;
@@ -292,7 +292,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #5371ff
     width: 200px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', cursive;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -320,7 +320,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #5371ff
 
 .service h3 {
     margin-top: 13px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 14px;
     color: #5d5d5d;
     font-weight: bold;
@@ -348,7 +348,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #5371ff
     width: 220px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', cursive;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -379,7 +379,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #5371ff
     margin-top: 20px;
     padding-left: 15px;
     padding-right: 15px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 14px;
     color: #5d5d5d;
     font-weight: bold;
@@ -410,7 +410,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #5371ff
     width: 180px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', cursive;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -479,7 +479,7 @@ footer {
 
 .footer-box h4 {
     margin-top: 20px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 14px;
     color: #5d5d5d;
     font-weight: bold;
@@ -552,7 +552,7 @@ footer {
 .page-title-container h1 {
     display: inline;
     margin-left: 10px;
-    font-family: 'Lobster', cursive;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -591,7 +591,7 @@ footer {
 
 .about-us-text h3 {
     margin-top: 25px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 16px;
     color: #5d5d5d;
     font-weight: bold;
@@ -618,7 +618,7 @@ footer {
     width: 220px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', cursive;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -647,7 +647,7 @@ footer {
     margin-top: 20px;
     padding-left: 15px;
     padding-right: 15px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 14px;
     color: #5d5d5d;
     font-weight: bold;
@@ -677,7 +677,7 @@ footer {
 
 .contact-us-container h3 {
     margin-top: 25px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 16px;
     color: #5d5d5d;
     font-weight: bold;
@@ -737,7 +737,7 @@ footer {
 
 .services-full-width-text h3 {
     margin-top: 25px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 16px;
     color: #5d5d5d;
     font-weight: bold;
@@ -764,7 +764,7 @@ footer {
 
 .services-half-width-text h3 {
     margin-top: 25px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 16px;
     color: #5d5d5d;
     font-weight: bold;
@@ -827,7 +827,7 @@ footer {
 .portfolio-filters {
 	padding-top: 35px;
 	padding-bottom: 10px;
-	font-family: 'Droid Sans', sans-serif;
+	font-family: Verdana,Geneva,sans-serif;
     font-size: 16px;
     color: #5d5d5d;
     font-weight: bold;
@@ -887,7 +887,7 @@ footer {
 .portfolio-box-text h3 {
 	cursor: pointer;
     margin-top: 20px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 14px;
     color: #5d5d5d;
     font-weight: bold;
@@ -916,7 +916,7 @@ footer {
     width: 160px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', cursive;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -939,7 +939,7 @@ footer {
 .pricing-1-box-price {
 	padding: 20px 0 7px 0;
 	background: #eee;
-	font-family: 'Droid Sans', sans-serif;
+	font-family: Verdana,Geneva,sans-serif;
 	font-size: 42px;
 	color: #5d5d5d;
     line-height: 54px;
@@ -952,7 +952,7 @@ footer {
 }
 
 .pricing-1-box-price span {
-	font-family: 'Open Sans', sans-serif;
+	font-family: Verdana,Geneva,sans-serif;
 	font-size: 14px;
 	color: #888;
     line-height: 30px;
@@ -968,7 +968,7 @@ footer {
 	margin-bottom: 0;
 	padding: 10px 20px;
 	background: #eee;
-	font-family: 'Droid Sans', sans-serif;
+	font-family: Verdana,Geneva,sans-serif;
 	font-size: 16px;
 	color: #5d5d5d;
 	font-weight: bold;
@@ -986,7 +986,7 @@ footer {
 	margin-bottom: 2px;
 	padding: 10px 20px;
 	background: #e8e8e8;
-	font-family: 'Droid Sans', sans-serif;
+	font-family: Verdana,Geneva,sans-serif;
 	font-size: 14px;
 	color: #5d5d5d;
     line-height: 30px;
